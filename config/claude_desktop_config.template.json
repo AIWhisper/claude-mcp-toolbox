@@ -7,7 +7,7 @@
           "-i",
           "--rm",
           "--env-file",
-          ".env.brave",
+          ".env",
           "mcp/brave-search"
         ],
         "env": {}
@@ -19,7 +19,7 @@
           "-i",
           "--rm",
           "--env-file",
-          ".env.github",
+          ".env",
           "mcp/github"
         ],
         "env": {}
